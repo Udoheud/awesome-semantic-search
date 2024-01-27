@@ -163,6 +163,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
+- [Infinity](https://github.com/infiniflow/infinity)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
 - [SBERT](https://www.sbert.net/)
 - [ELECTRA](https://github.com/google-research/electra)
